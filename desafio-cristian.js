@@ -1,6 +1,3 @@
-//Comando de laço adicionado por ser critério do projeto, mas, para que cada ranking seja apresentado
-//de acordo com a xp do personagem sem que exiba os demais rankings, basta retirar comando while.
-
 let personagem = "Demolitor"
 let xp = 500
 while (xp<=10000){
